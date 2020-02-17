@@ -28,8 +28,8 @@ def treinar():
 
     print('total de erros: ' + str(erroTotal))
 
-
 treinar() 
+
 print('rede neural treinada')
 print(calculaSaida(entradas[0]))
 print(calculaSaida(entradas[1]))
